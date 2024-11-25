@@ -32,7 +32,8 @@ SECRET_KEY = {
 DEBUG = False
 
 ALLOWED_HOSTS = ['localhost', 
-                 '.herokuapp.com']
+                 '.herokuapp.com',
+                 '.codeinstitute-ide.net']
 
 
 # Application definition
